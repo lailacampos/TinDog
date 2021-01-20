@@ -1,2 +1,1 @@
-# TinDog
-TinDog Mock webpage
+TinDog Starting Files
